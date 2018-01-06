@@ -4,3 +4,4 @@
 算法博客列表
 - [感知机](https://www.zybuluo.com/xuchongfeng/note/972951)
 - [朴素贝叶斯](https://www.zybuluo.com/xuchongfeng/note/1004247)
+- [决策树](https://www.zybuluo.com/xuchongfeng/note/1007369)

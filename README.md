@@ -5,3 +5,4 @@
 - [感知机](https://www.zybuluo.com/xuchongfeng/note/972951)
 - [朴素贝叶斯](https://www.zybuluo.com/xuchongfeng/note/1004247)
 - [决策树](https://www.zybuluo.com/xuchongfeng/note/1007369)
+- [逻辑斯蒂回归和最大熵模型](https://www.zybuluo.com/xuchongfeng/note/1010570)

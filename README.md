@@ -9,4 +9,4 @@
 - [提升方法](https://www.zybuluo.com/xuchongfeng/note/1012614)
 - [EM算法](https://www.zybuluo.com/xuchongfeng/note/1015222)
 - [线性回归]()
-- [隐马尔科夫模型]()
+- [隐马尔科夫模型](https://www.zybuluo.com/xuchongfeng/note/1018693)

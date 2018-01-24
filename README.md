@@ -13,3 +13,4 @@
 
 CS229笔记
 - [线性回归，逻辑回归，广义线性模型](https://www.zybuluo.com/xuchongfeng/note/1018706)
+- [生成型学习算法](https://www.zybuluo.com/xuchongfeng/note/1030147)
